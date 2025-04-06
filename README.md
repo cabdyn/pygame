@@ -1,2 +1,3 @@
 # pygame
-Asteroids game in python
+
+Asteroid game is my second [Boot.dev](https://www.boot.dev) project!
